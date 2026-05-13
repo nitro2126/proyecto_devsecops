@@ -8,7 +8,7 @@ pipeline {
                 echo 'Clonando el repositorio.'
 
                 git branch: 'desarrollo',
-                    url: 'https://github.com/TU_USUARIO/proyecto-devsecops.git'
+                    url: 'https://github.com/nitro2126/proyecto_devsecops.git'
             }
         }
 
