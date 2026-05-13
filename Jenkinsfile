@@ -7,7 +7,7 @@ echo 'Clonando el repositorio desde GitHub...'
 // Cambia esta URL por la tuya
 git branch: 'desarrollo', url:
 
-'https://github.com/TU_USUARIO/proyecto-devsecops.git'
+'https://github.com/nitro2126/proyecto_devsecops.git'
 
 }
 }
